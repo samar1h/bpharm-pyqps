@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-10-05",
+  "pyqps": [
+    {
+      "filename": "bp101t_mst1_2023.jpg",
+      "course_code": "BP101T",
+      "semester": 1,
+      "subject": "Human Anatomy and Physiology I",
+      "exam_type": "MST-1",
+      "year": "2023",
+      "tags": ["Theory", "First Year"]
+    },
+    {
+      "filename": "bp101t_mst1_2024.jpg",
+      "course_code": "BP101T",
+      "semester": 1,
+      "subject": "Human Anatomy and Physiology I",
+      "exam_type": "MST-1",
+      "year": "2024",
+      "tags": ["Theory", "First Year"]
+    },
+    {
+      "filename": "bp102t_endsem_2023.jpg",
+      "course_code": "BP102T",
+      "semester": 1,
+      "subject": "Pharmaceutical Analysis I",
+      "exam_type": "End Semester",
+      "year": "2023",
+      "tags": ["Theory"]
+    },
+    {
+      "filename": "bp201t_mst2_2024.png",
+      "course_code": "BP201T",
+      "semester": 2,
+      "subject": "Human Anatomy and Physiology II",
+      "exam_type": "MST-2",
+      "year": "2024",
+      "tags": ["Theory", "Second Semester"]
+    }
+  ]
+}
